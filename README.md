@@ -7,4 +7,4 @@
 <hr>
 <a href="https://github.com/HardAndBetter/Arduino-Proyects/tree/main/Oled%20Screen/Reaction%20Game">Reaction Game</a>
 <hr>
-<a href="https://github.com/HardAndBetter/Arduino-Proyects/tree/main/Oled%20Screen/Reaction%20Game">Reaction Game</a>
+<a href="https://github.com/HardAndBetter/Arduino-Proyects/tree/main/Oled%20Screen/Shooting%20Game">Shooting Game</a>
