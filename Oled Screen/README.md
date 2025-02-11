@@ -6,3 +6,7 @@
   </tr>
 </table>
 <h2>Library</h2>
+
+Adafruit SSD1306 – Maneja la pantalla OLED.
+Adafruit GFX – Proporciona funciones gráficas como texto, líneas y formas.
+Wire – Maneja la comunicación I2C (ya viene incluida en Arduino).
