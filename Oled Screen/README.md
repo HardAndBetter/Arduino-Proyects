@@ -28,3 +28,4 @@
     <td>1.8.19</td>
   <tr>
 </table>
+<h6>Sketches, Concepts, ideas published in 2024 by HardAndBetter, code and schematics displayed (Open Source).</h6>
