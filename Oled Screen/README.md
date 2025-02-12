@@ -20,3 +20,11 @@
     <td>Maneja la comunicación I2C (ya viene incluida en Arduino).</td>
   </tr>
 </table>
+<h2>IDE´s Version</h2>
+<table>
+  <tr>
+    <td>Arduino IDE</td>
+    <td>Maneja la pantalla OLED.</td>
+        <td>Maneja la pantalla OLED.</td>
+  <tr>
+</table>
