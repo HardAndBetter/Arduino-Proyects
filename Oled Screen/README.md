@@ -24,7 +24,7 @@
 <table>
   <tr>
     <td><img src="https://img.utdstc.com/icon/165/ef1/165ef10274290f7ef9573f230b88a8ce490efb6ae64debb759dd659c0b55051d:200" height="100"></td>
-    <td>Maneja la pantalla OLED.</td>
-    <td>Maneja la pantalla OLED.</td>
+    <td>Arduino IDE.</td>
+    <td>1.8.19</td>
   <tr>
 </table>
